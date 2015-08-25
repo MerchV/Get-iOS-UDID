@@ -8,5 +8,8 @@ You'll need to make edits to the files to insert your web domain name.
 Make the following edits:
 
 enroll.mobileconfig line 8
+
 done.php line 75
+
 submit.php line 3
+
